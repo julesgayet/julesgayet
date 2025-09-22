@@ -23,6 +23,8 @@ End-of-year project from my first year in Computer Science.
 ### 🔗 [Questionnary](https://github.com/Mdeterne/Web-app-questionary)  
 A PHP-based web app developed for the University of Limoges.  
 
+### [Network Configuration](https://github.com/LOI-mln/virtual-network)
+
 ---
 
 ## 🤝 Let’s Connect
