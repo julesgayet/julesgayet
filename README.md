@@ -24,8 +24,8 @@ End-of-year project from my first year in Computer Science.
 A PHP-based web app developed for the University of Limoges.  
 
 ### 📶 [Network Configuration](https://github.com/LOI-mln/virtual-network)
-Mise en place d’une infrastructure réseau simulée reproduisant un réseau d’entreprise avec trois zones (serveurs, personnel, clients) interconnectées par routeurs.
-Configuration de services clés (DHCP, Apache, partage de fichiers) et validation via tests de communication inter-zones.
+Designed and implemented a simulated enterprise network with three zones (servers, staff, clients) interconnected via routers.
+Configured key services (DHCP, Apache, file sharing) and validated the setup through inter-zone communication tests.
 
 ---
 
