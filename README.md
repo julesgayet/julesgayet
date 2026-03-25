@@ -1,7 +1,7 @@
 # 👋 Salut, moi c'est Jules Gayet ! 🚀
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Jules%20Gayet&fontSize=90&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Jules%20Gayet&fontSize=90" />
 </p>
 
 ### 🎓 Étudiant en BUT Informatique @ IUT de Limoges 🏛️
@@ -11,7 +11,7 @@
   <a href="https://julesgayet.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Mon%20Portfolio-FF5733?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://linkedin.com/in/TON_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/jules-gayet" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
