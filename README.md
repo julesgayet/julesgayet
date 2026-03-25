@@ -38,8 +38,8 @@
 ## 📊 Activité GitHub
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jules87000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jules87000&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=julesgayet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julesgayet&layout=compact&theme=tokyonight" />
 </p>
 
 ---
