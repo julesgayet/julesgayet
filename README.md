@@ -48,7 +48,7 @@
 
 ## 🤝 On reste en contact ?
 <p align="left">
-  <a href="https://linkedin.com/in/TON_PROFIL_ICI" target="_blank">
+  <a href="https://www.linkedin.com/in/jules-gayet/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:jules.gayet@etu.unilim.fr">
