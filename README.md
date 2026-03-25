@@ -1,20 +1,13 @@
-<h1 align="center">👋 Salut, moi c'est Jules Gayet !</h1>
+<h1 align="center">Jules Gayet !</h1>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/BUT%20Informatique-Limoges-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Recherche%20Alternance-3ieme%20Année-BUT-green?style=for-the-badge">
+  <a href="https://julesgayet.github.io/">
+    <img src="https://img.shields.io/badge/VOIR%20MON%20PORTFOLIO-FF5733?style=for-the-badge&logo=react&logoColor=white">
+  </a>
 </p>
 
-### 🎓 Étudiant en BUT Informatique @ IUT de Limoges 🏛️
+### 🎓 Étudiant en BUT Informatique IUT de Limoges 🏛️
 *Passionné par le développement d'applications robustes et l'architecture réseau.*
-
-<p align="left">
-  <a href="https://julesgayet.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Mon%20Portfolio-FF5733?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://linkedin.com/in/jules-gayet" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
 
 ---
 
@@ -54,12 +47,11 @@
 ---
 
 ## 🤝 On reste en contact ?
-
 <p align="left">
-<a href="https://x.com/jules1210_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jules1210_" height="30" width="40" /></a>
-<a href="mailto:jules.gayet12@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="jules.gayet12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/TON-PROFIL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julesgayet" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/TON_PROFIL_ICI" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:jules.gayet@etu.unilim.fr">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
-
----
-<p align="center">✨ *Built with passion and too much coffee* ✨</p>
