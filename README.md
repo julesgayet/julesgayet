@@ -1,7 +1,7 @@
 <h1 align="center">👋 Salut, moi c'est Jules Gayet !</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/BUT%20Informatique-Limoges-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Recherche%20Stage-Avril%202026-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Recherche%20Alternance-3ieme%20Année-BUT-green?style=for-the-badge">
 </p>
 
 ### 🎓 Étudiant en BUT Informatique @ IUT de Limoges 🏛️
