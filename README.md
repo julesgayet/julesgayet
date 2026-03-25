@@ -7,6 +7,15 @@
 ### 🎓 Étudiant en BUT Informatique @ IUT de Limoges 🏛️
 *Passionné par le développement d'applications robustes et l'architecture réseau.*
 
+<p align="left">
+  <a href="https://julesgayet.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Mon%20Portfolio-FF5733?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://linkedin.com/in/TON_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
 ---
 
 ## 🛠️ Ma Tech Stack
