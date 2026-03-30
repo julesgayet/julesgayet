@@ -32,7 +32,7 @@
 | Projet | Description | Stack |
 | :--- | :--- | :--- |
 | [🎨 Latice](https://github.com/jules87000/latice) | Jeu de plateau stratégique (Projet de fin de 1ère année). | Java / JavaFX |
-| [🔗 Questionnary](https://github.com/Mdeterne/Web-app-questionary) | Plateforme web de questionnaires pour l'IUT. | PHP / SQL |
+| [🔗 Questionnary](https://github.com/Mdeterne/php-mariadb-Questionary) | Plateforme web de questionnaires pour l'IUT. | PHP / SQL |
 | [📶 Virtual Network](https://github.com/LOI-mln/virtual-network) | Simulation d'une infrastructure réseau d'entreprise (DHCP, Apache, Routage). | Linux / Cisco |
 
 ---
